@@ -22,8 +22,8 @@ Bark is a set of configs for [StumpWM](https://stumpwm.github.io/), aimed at run
 1. Clone the repository:
    ```bash
    git clone https://github.com/cloghouse/bark.git ~/.bark.d
-  ```
+
 2. Symlink the configuration:
    ```bash
    ln -s ~/.stumpwm.d/bark.d/init.lisp ~/.stumpwmrc
-   ```
+
